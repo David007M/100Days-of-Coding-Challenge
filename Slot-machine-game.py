@@ -116,7 +116,7 @@ def spin(balance):
 
         if total_bet > balance:
             print(
-                f"You do not have enough to bet that amount, your current balance is: ${balance}")
+                f"You don't have enough to bet that amount, your current balance is: ${balance}")
         else:
             break
 
