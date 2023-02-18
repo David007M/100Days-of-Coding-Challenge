@@ -3,6 +3,7 @@ import sys
 import clipboard
 import json
 
+# This is a global variable. 
 SAVED_DATA = "clipboard.json"
 
 
