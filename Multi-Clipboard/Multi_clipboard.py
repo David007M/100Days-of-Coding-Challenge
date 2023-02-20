@@ -1,4 +1,4 @@
-
+# In order for to work, Clipboard & sys libraries must be imported 
 import sys
 import clipboard
 import json
