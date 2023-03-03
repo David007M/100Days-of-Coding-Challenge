@@ -9,11 +9,11 @@ myLabel.pack()
 """
 
 
-# def button_clicked():
-#     print(my_name.get())
+def button_clicked():
+    print(my_name.get())
 
-# my_name = ttk.Entry(root)
-# my_name.pack()
+my_name = ttk.Entry(root)
+my_name.pack()
 
 # ttk.Button(root, text="Click me", command=button_clicked).pack()
 
