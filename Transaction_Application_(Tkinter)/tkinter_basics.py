@@ -15,7 +15,7 @@ def button_clicked():
 my_name = ttk.Entry(root)
 my_name.pack()
 
-# ttk.Button(root, text="Click me", command=button_clicked).pack()
+ttk.Button(root, text="Click me", command=button_clicked).pack()
 
 # 'grid' is more flexible than 'pack'
 # Frames
