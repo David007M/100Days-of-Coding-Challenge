@@ -231,4 +231,4 @@ else:
     # There are multiple tied winners:
     print('The winners are: ' + ', '.join(winners))
 
-print('Thank you for playing!')
+print('Thank you for playing!!')
