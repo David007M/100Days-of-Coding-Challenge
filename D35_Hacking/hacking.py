@@ -1,6 +1,3 @@
-# NOTE: This program requires the sevenletterwords.txt file. You can
-# download it from https://inventwithpython.com/sevenletterwords.txt
-
 import random, sys
 
 # Set up the constants:
