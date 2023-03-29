@@ -1,5 +1,4 @@
-"""Duckling Screensaver,
-A screensaver of many many ducklings.
+"""Duckling Screensaver
 
 >" )   =^^)    (``=   ("=  >")    ("=
 (  >)  (  ^)  (v  )  (^ )  ( >)  (v )
