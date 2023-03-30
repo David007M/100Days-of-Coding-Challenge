@@ -78,7 +78,7 @@ It may seem like it doesn't matter if you swap or not, but your odds
 do improve if you swap doors! This program demonstrates the Monty Hall
 problem by letting you do repeated experiments.
 
-You can read an explanation of why swapping is better at
+You can read an explanation of why swapping is better @
 https://en.wikipedia.org/wiki/Monty_Hall_problem
 '''.format(ALL_CLOSED, THIRD_GOAT))
 
