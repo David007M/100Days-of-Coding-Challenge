@@ -1,6 +1,6 @@
 import datetime
 
-# Set up the constants:
+# Set up the constants (global variables):
 DAYS = ('Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday',
         'Friday', 'Saturday')
 MONTHS = ('January', 'February', 'March', 'April', 'May', 'June', 'July',
