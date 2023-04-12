@@ -1,6 +1,6 @@
 import random, sys
 
-# Set up the constants:
+# Set up the constants.
 # The garbage filler characters for the "computer memory" display.
 GARBAGE_CHARS = '~!@#$%^&*()_+-={}[]|;:,.<>?/'
 
