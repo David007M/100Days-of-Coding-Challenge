@@ -2,7 +2,7 @@
 # Highlight the table, copy it, then paste it into a spreadsheet program
 # like Excel or Google Sheets like in https://invpy.com/elements
 # Then save this file as periodictable.csv.
-# Or download this csv file from https://invpy.com/periodictable.csv
+# Or download this csv file from https://invpy.com/periodictable.csv.
 
 import csv, sys, re
 
